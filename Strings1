@@ -1,0 +1,14 @@
+public class String1
+{
+
+public static void main{
+   
+   String A = "Hello";
+    String B = "Brandon";
+    
+    String result = A + B;
+    
+    System.out.println(result);
+      
+  }
+}
