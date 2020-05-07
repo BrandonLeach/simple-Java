@@ -1,0 +1,19 @@
+public class String2 {
+
+public static void main (Strings[]args){
+
+String A = "BBGH";
+String B = "BBGH";
+
+if (A == B) {
+   System.outprintln("The Strings are equal using (==) ");
+   
+if (A.equal(B)){
+   System.out.println("The Strings are equal using the (.equal)");
+        } 
+       
+      }
+   
+   }
+
+}
