@@ -1,0 +1,9 @@
+public class String3
+
+public static void main(String[]args){
+ String A = "abcdefghijklmnopqrstuvwxyz";
+ 
+  System.out.println("index of F is "         +A.indexOf("f"));
+  System.out.pringln("index of S is  "        +A.indexOf("s"));
+
+}
