@@ -1,0 +1,27 @@
+package Zero;
+
+public interface movable{
+public void move();
+}
+...................................................
+........................................................
+..............................................................
+
+package Zero;
+public class Automobile implements Movable{
+public void move(){
+   System.out.println("This Object is in motion....");
+ }
+}
+.................................................................
+.....................................................................
+..........................................................................
+
+package Zreo;
+
+public class Application{
+public static void main(STring[]args){
+  Movable mv = new Automobile();
+  mv.move();
+  }
+}
