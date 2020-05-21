@@ -20,7 +20,7 @@ public void move(){
 package Zreo;
 
 public class Application{
-public static void main(STring[]args){
+public static void main(String[]args){
   Movable mv = new Automobile();
   mv.move();
   }
